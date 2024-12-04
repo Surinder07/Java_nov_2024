@@ -58,6 +58,53 @@ NOT     -         !
 
 
 
+Curriculum 
+
+**1. Saturday - Java 
+2. Tuesday - Java
+3. Wednesday - Side courses 
+
+## Java 
+Core Java - collections 
+Java 8 - Streams api , Lambdas - most important for interviews
+
+Backend Java developer 
+Junit 
+
+Spring core , DI , IOC,
+Spring boot 
+Spring JDBC 
+Spring Data JPA 
+Hibernate
+Spring MVC  - Thymleaf
+Spring Microservices 
+REST 
+Kafka- Event driven archiecture
+
+
+## Side courses
+Linux/Unix 
+Git/Github
+Jenkins
+Rest API 
+AWS 
+RDS - Database , Mysql 
+Jira
+
+Docker/Kubernetes -- DEVOPS 
+
+
+1. Capstone project 
+2. Live Project 
+
+
+
+Front end side 
+HTML/CSS/javscipt 
+React 
+
+
+
 
 
 
