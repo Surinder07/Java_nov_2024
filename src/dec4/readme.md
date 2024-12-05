@@ -45,8 +45,9 @@ how to change permissions?
 
 
 Task 
+mv oldfile newfile
 
-1. create a directory  Name : Pragra 
+1. create a directory  Name : Pragra -> Java
 
 Another Directory -  Java 
 1. test             MyFile              Demo
@@ -54,7 +55,7 @@ Another Directory -  Java
 ## test 
 rename this file  Test
 
-change the owner perssmion to exectute and write only 
+change the Owner perssmion to exectute and write only , no permission
 
 ## MyFile
 
@@ -65,6 +66,35 @@ change the other permissions to read only , rest all the permissions
 
 give read only permission to group and read and write permission to owner 
 and give execute permission to the Other
+
+
+
+
+## grep 
+
+search a regular expression / or pattern 
+
+1. find the match
+grep JavaScript file_name 
+
+2. grep -v JavaScript file_name 
+print all the line that does not match the pattern
+3. -n 
+print all the lines and line number
+4. -i 
+for upper case or lower case 
+
+5. -c 
+print the count of matching lines../ 
+
+## Sort 
+
+sort option filename
+name of countries and arrange them in alphabatical order 
+or reverse order 
+
+
+
 
 
 
