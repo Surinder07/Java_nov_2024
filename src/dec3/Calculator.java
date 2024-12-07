@@ -30,6 +30,7 @@ public class Calculator {
         switch (input) {
             case 1 :
                 System.out.println(num1 + num2);
+                System.out.println("Do you still want to continue, Press y for yes , N for NO " );
 
                 break;
             case 2 :
