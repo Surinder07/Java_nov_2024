@@ -4,16 +4,11 @@ public class Car {
 
     // attributes
     // member variables
-    String brand;
-    int year;
+    String brand = "Honda";
+    int year = 2022;
     int numberOfWheels;
     String model;
     double price;
-
-
-    // Behaviour
-    // funcationality - methods
-    // method - set of block of statements....  which perform some specific function
 
     public void accelerate(){
         System.out.println("Car is running...");
@@ -28,6 +23,12 @@ public class Car {
     }
 
     /*
+
+
+    // Behaviour
+    // funcationality - methods
+    // method - set of block of statements....  which perform some specific function
+
 
     public - accesses by all , private
 

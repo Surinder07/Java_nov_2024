@@ -17,6 +17,8 @@ blueprint
 
 ## Object 
 
+-- hold the memory 
+
 state 
 behaviour 
 identity 
