@@ -29,6 +29,7 @@ Student(String a){
 keywords in java ? - reserve keyword.
 
 
+
 1. refers to the current object 
 
 ---> it refers to the current  class instance variable 
@@ -50,6 +51,40 @@ variables
 ## Garbage collection - Interview Question
 Please read this 
 https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/
+
+
+
+## Problem Statement 
+
+Student 
+- name
+- age 
+- grade
+- course
+
+create 4 diff constructor 
+
+const 1
+        -  - this should call constructor 3
+        
+const 2 
+    -  - this should call constructor 1
+
+const 3
+        - sout("hello I am constructor 3. )
+
+const 4 
+    - this should call constructor 2
+    
+
+call constructor 4 
+
+
+
+
+
+
+
 
 
 
