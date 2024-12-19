@@ -3,6 +3,15 @@
 adding something 
 to get a merge conflict
 
+
+
+
+
+....
+
+
+
+
 more ...
 
 1. git / Github 
