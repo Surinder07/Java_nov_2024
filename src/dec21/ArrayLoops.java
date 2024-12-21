@@ -24,6 +24,22 @@ public class ArrayLoops {
         // create an array of Fruits
         // create an array for list of countries in North America
 
+        /*
+        100 120     300 40 50 160 370 180 190  ----> 370
+
+        comparing numbers
+
+        int max = 0;
+
+        1. create array  :  100 120     300 40 50 160 370 180 190
+        2. take a variable max = 0
+        3. compare the numbers with max and assign it to max
+        4. if you find max is smaller than the number , update the max value.
+
+
+
+
+         */
 
     }
 }
