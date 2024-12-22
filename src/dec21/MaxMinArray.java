@@ -23,3 +23,15 @@ public class MaxMinArray {
     }
 }
 
+// 11 : 26 am
+/*
+
+     10 20 30 40 50 60 70 80 90 100
+
+     -- reverse this array
+
+     swap the elements of array
+
+
+
+ */
