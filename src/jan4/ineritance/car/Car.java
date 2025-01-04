@@ -17,4 +17,7 @@ public class Car extends Vehicle{
     public boolean hasAC(){
         return true;
     }
+
+
+
 }
