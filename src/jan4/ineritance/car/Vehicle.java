@@ -21,8 +21,6 @@ public class Vehicle {
         System.out.println("vehicle details ");
         System.out.println("Number of doors...");
 
-
-
     }
 
 }

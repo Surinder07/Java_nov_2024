@@ -7,6 +7,7 @@ public class VehicleMain {
         Car car = new Car();
         car.accelerate();
 
+
         // create object of all the classes
         // Bike, car, Aeroplane
         // and call the respective methods for all of them

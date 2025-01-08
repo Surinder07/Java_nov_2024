@@ -37,6 +37,25 @@ Types of inheriatnace
 Single 
 
 
+        1. Employee             
+
+
+
+
+
+
+
+
+If you call Full time employee - calculateSalary() 
+for full time employee -    60,000
+
+contract - number of hours worked * rate -    
+calcualteSalary()  --- 40 * 50 = 2000
+
+
+
+
+
 
 
 
