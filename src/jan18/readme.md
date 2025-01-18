@@ -104,6 +104,14 @@ can not instantiate abstract class
 
 
 
+read about : Interview question
+Singleton class and check the implementation of that class
+
+contructor can be private 
+
+
+
+
 
 
 

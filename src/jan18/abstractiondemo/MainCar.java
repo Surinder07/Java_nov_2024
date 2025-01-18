@@ -27,14 +27,6 @@ Dog                  Cat                Tiger
          Create object of Dog class, Cat class and Tiger
          and call the methods..
 
-
-
-
-
-
-
-
-
  */
 
 
