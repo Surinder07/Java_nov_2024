@@ -9,7 +9,6 @@ public final class Test {
                 new Address(110, "Queen st." ,"Toronto" , "Onatrio" ,"M1K 2W3" , "CA"));
 
 
-        // Composite keys
         // Student - ---  firstName, middleName, lastName
         // name , email, phone
         // Student -    Name name, String email, String phone
@@ -20,6 +19,9 @@ public final class Test {
 
 
         System.out.println(city);
+        System.out.println(employee1.toString());
+
+
 
 
 
