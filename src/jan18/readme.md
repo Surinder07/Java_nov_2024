@@ -112,6 +112,63 @@ contructor can be private
 
 
 
+## Interfaces 
+
+
+what is interface ? 
+- template 
+- -similar to the class 
+- it has constants 
+- all methods are abstract 
+- 100 % of abstraction 
+- multiple inheritance 
+
+
+its a contract which every class have to fulfill , whoever is going to 
+inherit from it . 
+
+
+
+How to declare interace? 
+
+interface Test {
+
+// all the variables/fields are by default 
+public static final 
+
+
+// all the methods are by default 
+public and abstract
+
+you can not create object of interface
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
