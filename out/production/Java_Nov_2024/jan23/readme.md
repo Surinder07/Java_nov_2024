@@ -66,7 +66,12 @@ Scanner -----> some exception occured ,
 
 
 
+throw -   you create your own exception for a particular scenario
 
+throw new RuntimeException 
+
+throws - you throw this exception for someone else/ any method [caller of that method] has to handle
+this exception. 
 
 
 
