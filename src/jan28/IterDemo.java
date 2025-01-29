@@ -14,7 +14,14 @@ public class IterDemo {
         list.add(40);
         list.add(50);
        // System.out.println(list);
+        /*
+        /*
+List of Fruits :
+1. Traverse using for loop
+2. For each loop
+3. Iterator and list Iterators
 
+ */
         // Iterator
         Iterator<Integer> itr = list.iterator();
 
@@ -35,11 +42,4 @@ public class IterDemo {
     }
 }
 
-/*
-List of Fruits :
-1. Traverse using for loop
-2. For each loop
-3. Iterator and list Iterators
 
-
- */
