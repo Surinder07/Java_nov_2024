@@ -150,6 +150,24 @@ Given an array list
 
 
 
+Big O - read about this 
+
+space and 
+
+time complexity - how fast or slow the algorithm is 
+worst case scenario 
+
+
+Arraylist   - app is more search intensive , read ops 
+LinkedList  - manipulation , update, delete 
+
+$0.1   x 1M x 10 apps
+
+
+
+// swap the array elements 
+
+
 
 
 
