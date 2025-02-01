@@ -37,10 +37,7 @@ public class MapDemo {
 
         System.out.println("Entry set : "+entrySet);
 
-
-
         /*
-
            List of Provinces with Walamart
            Ontario - 25
            New Brunswick - 13
