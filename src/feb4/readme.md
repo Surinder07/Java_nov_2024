@@ -55,6 +55,15 @@ stack of books
 
 
 
+read about internal implementation of HashMap 
+
+Functional interfaces 
+Lambdas, 
+Streams api 
+
+
+
+
 
 
 
