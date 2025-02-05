@@ -1,7 +1,8 @@
-package feb4;
+package feb4.comparable;
+
+import feb4.comparable.Employee;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 

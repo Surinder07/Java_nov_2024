@@ -39,6 +39,19 @@ obj1 = obj2 ----> 0
 obj1 > obj2 ---->  positive value
 
 
+Collections class and Arrays Class 
+
+
+
+## Stack 
+
+stack of plates 
+stack of books 
+
+
+
+## Queue 
+
 
 
 
