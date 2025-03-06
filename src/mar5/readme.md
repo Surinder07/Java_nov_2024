@@ -145,3 +145,94 @@ FROM EMPLOYEE e
 FULL OUTER JOIN
 SALARY s
 ON e.EMPLOYEE_ID = s.EMPLOYEE_ID;*/
+
+
+
+
+- constraints - condition / rule
+  show databases ;
+
+use pragra;
+show  tables;
+
+create table PERSON (
+id int NOT NULL ,
+name varchar(255)
+);
+
+insert into PERSON(id,name) values(1,'sofia');
+insert into PERSON(id, name)VALUES(null,'Raj');
+
+
+create table Human (
+id int not null,
+name varchar(255),
+age int not null ,
+check ( age > 18 )
+);
+
+insert into Human(id,name,age)values(1,'mathew',19);
+Insert into Human (id , name, age) values (101 , 'Peter',  21);
+insert into Human(id,name,age) Values(1,'simran',12);
+
+
+
+select *
+from Human;
+
+
+
+
+select *
+from PERSON;
+
+/*
+
+NOT NULL  --
+
+
+
+
+
+
+UNIQUE
+PRIMARY KEY
+FOREIGN KEY
+CHECK
+DEFAULT
+INDEX
+
+
+*/
+
+
+
+-- Stored Procedures
+
+DELIMITER //
+
+create PROCEDURE innerJoinOnTableEmployeeAndSalary()
+BEGIN
+SELECT  e.EMPLOYEE_ID, e.EMPLOYEE_NAME, s.EMPLOYEE_SALARY, s.FROM_DATE
+FROM EMPLOYEE e
+INNER JOIN
+SALARY s
+ON e.EMPLOYEE_ID = s.EMPLOYEE_ID;
+-- another query
+END //
+
+DELIMITER ;
+
+
+
+CALL innerJoinOnTableEmployeeAndSalary();
+
+
+-- Triggers
+
+
+
+
+
+
+
